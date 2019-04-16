@@ -6,6 +6,7 @@ h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
 	}
+
 h1{
     font-size: 5rem;
 }
@@ -14,22 +15,28 @@ h1 .text-primary{
 	letter-spacing:-0.05rem;
     line-height: 3rem;
 }
+
 .subheading{
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2rem;
 	text-transform: none;
 	letter-spacing: -0.05rem;
 }
+
 #page-top{
 	line-height:60px;
 }
+
 .bg-primary{
 	background-color:#00d4c9!important;
 background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
 }
+
 .text-primary {
     color: #00cdd4!important;
 }
+
 a {
     color: #00cdd4;
 }
+
