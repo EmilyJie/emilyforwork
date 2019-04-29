@@ -39,3 +39,7 @@ background-image: url("https://www.transparenttextures.com/patterns/45-degree-fa
 a {
     color: #00cdd4;
 }
+
+.w-100 {
+    width: 500!important;
+}
