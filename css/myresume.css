@@ -39,3 +39,20 @@ background-image: url("https://www.transparenttextures.com/patterns/45-degree-fa
 a {
     color: #00cdd4;
 }
+
+#carousel-example-2{
+	width:55%;
+	height:55%;
+}
+
+.h3-responsive{
+	font-size: 1.2rem;
+	color:#ffffff;
+	background-color:rgba(77, 77, 77,0.5);
+}
+
+.p-carousel{
+	font-size: 0.8rem;
+	color:#ffffff;
+	background-color:rgba(77, 77, 77,0.5);
+}
